@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name's Keaton. I will do anything for an excuse to write code. (Almost).
+
+From Google Apps Script (js) & Python for automations, to React + Typescript & CSS & HTML for websites, with a bit of GDScript for video games, a bit of SQL sprinkled on top--I really get a kick out of learning what I can do with code. Where there are problems, I go to solve them.
+
+I'm trying to bring the pieces together to make something people will enjoy using as much as I enjoyed creating!
